@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeedtariq&label=Profile%20views&color=0e75b6&style=flat" alt="hadeedtariq" /> </p>
 
-- 🌱 I’m currently learning **TypeScript and Bs It**
+- 🌱 I’m currently persuing my **Bs It** Degree
 
-- 👨‍💻 All of my projects are available at [https://next-portfolio-iota-three.vercel.app/projects](https://next-portfolio-iota-three.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hadeed-portfolio-dp8f7bddx-hadeedtariq.vercel.app/)
 
 - 💬 Ask me about **ReactJs,NextJs,JavaScript,TypeScript,ExpressJs**
 
