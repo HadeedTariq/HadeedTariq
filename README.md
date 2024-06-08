@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently persuing my **Bs It** Degree
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://hadeed-portfolio-dp8f7bddx-hadeedtariq.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hadeed-portfolio-ochre.vercel.app/)
 
 - 💬 Ask me about **ReactJs,NextJs,JavaScript,TypeScript,ExpressJs**
 
