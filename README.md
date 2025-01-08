@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
     <a href="https://reactjs.org/" style="margin-right: 20px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="90" height="90"/>
     </a>
@@ -28,18 +28,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="90" height="90"/>
     </a>
     <a href="https://expressjs.com/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="90" height="90"/>
+        <img style="background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="90" height="90"/>
     </a>
     <a href="https://nestjs.com/" style="margin-right: 20px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="90" height="90"/>
     </a>
     <a href="https://www.djangoproject.com/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="90" height="90"/>
+        <img style="background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="90" height="90"/>
     </a>
     <a href="https://www.postgresql.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="90" height="90"/>
     </a>
-</div>
+</p>
 
 
 
