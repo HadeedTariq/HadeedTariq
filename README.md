@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="background-color:#d3decc; gap:10px;">
+
 [![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
 [![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)
 [![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
@@ -28,7 +28,7 @@
 [![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg)](https://www.postgresql.org/)
 
 
-</p>
+
 
 <p><img align="left" style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeedtariq&show_icons=true&locale=en&layout=compact" alt="hadeedtariq" /></p>
 
