@@ -20,24 +20,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" style="background-color:#d3decc; gap:10px;">
-<a href="https://reactjs.org/">
-    <i class="devicon-react-original colored"></i>
-</a>
-<a href="https://nodejs.org/">
-    <i class="devicon-nodejs-plain-wordmark colored"></i>
-</a>
-<a href="https://expressjs.com/">
-    <i class="devicon-express-original colored"></i>
-</a>
-<a href="https://nestjs.com/">
-    <i class="devicon-nestjs-original-wordmark colored"></i>
-</a>
-<a href="https://www.djangoproject.com/">
-    <i class="devicon-django-plain-wordmark"></i>
-</a>
-<a href="https://www.postgresql.org/">
-    <i class="devicon-postgresql-plain-wordmark colored"></i>
-</a>
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
+[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)
+[![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
+[![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg)](https://nestjs.com/)
+[![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg)](https://www.djangoproject.com/)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg)](https://www.postgresql.org/)
+
 
 </p>
 
