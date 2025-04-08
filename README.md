@@ -45,6 +45,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadeedtariq&theme=default&hide_border=false" alt="Streak Stats" />
 </p>
 
+
+
+## 📊 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadeedtariq/hadeedtariq/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeedTariq/HadeedTariq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadeedTariq/HadeedTariq/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HadeedTariq/HadeedTariq/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
