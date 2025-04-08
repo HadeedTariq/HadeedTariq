@@ -1,53 +1,50 @@
-<h3 align="center">Hi 👋, I'm Muhammad Hadeed </h3>
-<h3 align="center">Associate SE @RemianAi</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hadeed</h1>
+<h3 align="center">Full Stack Developer @RaviNovusTech️</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hadeedtariq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hadeedtariq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently an Associate SE @RemianAi and also pursuing my **BS IT** Degree.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://hadeed-portfolio-ochre.vercel.app/).
-- 💬 Ask me about **React.js, Node.js, Django, PostgreSQL**.
-- 📫 How to reach me: **hadeedtariq12@gmail.com**.
-- ⚡ Fun fact: **I'm the wizard behind the curtain, making sure everything works flawlessly on the backend**.
+- 🌱 Currently working as a **Full Stack Developer** at **RaviNovusTech** and pursuing my **BS IT** degree.
+- 👨‍💻 Check out my portfolio: [Hadeed_Portfolio](https://hadeed-portfolio-ochre.vercel.app/)
+- 💬 Ask me about: **React.js, Node.js, Django, Golang, PostgreSQL**
+- 📫 Reach me at: **hadeedtariq12@gmail.com**
+- ⚡ Fun fact: *I'm the wizard behind the curtain, making everything work seamlessly on the backend.*
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧠 Connect with me:
+
 <p align="left">
-    <a href="https://linkedin.com/in/hadeedtariq" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
+  <a href="https://linkedin.com/in/hadeedtariq" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools:
+
 <p align="center">
-    <a href="https://reactjs.org/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-    </a>
-    <a href="https://expressjs.com/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-    </a>
-    <a href="https://nestjs.com/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="50" height="50"/>
-    </a>
-    <a href="https://www.djangoproject.com/" style="margin-right: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/>
-    </a>
-    <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-    </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,django,postgres,redis,docker,nginx,go" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadeedtariq&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadeedtariq&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadeedtariq&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadeedtariq&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadeedtariq&theme=default&hide_border=false" alt="Streak Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadeedtariq&" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/hadeedtariq/hadeedtariq/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
