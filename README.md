@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 Currently working as a **Full Stack Developer** at **RaviNovusTech** and pursuing my **BS IT** degree.
-- 👨‍💻 Check out my portfolio: [Hadeed_Portfolio](https://hadeed-portfolio-ochre.vercel.app/)
+- 👨‍💻 Check out my portfolio: [Hadeed_Portfolio](https://hadeed-tariq-portfolio.vercel.app/)
 - 💬 Ask me about: **React.js, Node.js, Django, Golang, PostgreSQL**
 - 📫 Reach me at: **hadeedtariq12@gmail.com**
 - ⚡ Fun fact: *I'm the wizard behind the curtain, making everything work seamlessly on the backend.*
