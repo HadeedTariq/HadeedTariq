@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hadeedtariq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 Currently working as a **Full Stack Developer** at **RaviNovusTech** and pursuing my **BS IT** degree.
+- 🌱 Previously worked as a **Full Stack Developer** at **RaviNovusTech**.
 - 👨‍💻 Check out my portfolio: [Hadeed_Portfolio](https://hadeed-tariq-portfolio.vercel.app/)
 - 💬 Ask me about: **React.js, Node.js, Django, Golang, PostgreSQL**
 - 📫 Reach me at: **hadeedtariq12@gmail.com**
